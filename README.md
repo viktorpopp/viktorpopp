@@ -1,5 +1,7 @@
 <div align="center">
 
+<p>Self-hosted git instance: <a href="https://git.zinix.org/viktor">git.zinix.org/viktor</a></p>
+
 <img src="https://media1.tenor.com/m/h6T7YUwIn5UAAAAd/blahaj-go-spinny-blahaj.gif" alt="Blåhaj go spinny is gone :c" />
 
 <br>
