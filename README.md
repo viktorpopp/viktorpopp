@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/h6T7YUwIn5UAAAAd/blahaj-go-spinny-blahaj.gif" alt="Blåhaj go spinny is gone :c" />
+<img src="https://i.pinimg.com/originals/3a/9d/cd/3a9dcd481459e84ed869147305efd03b.gif" alt="i luh chainsaw man" />
 
 <br>
 
